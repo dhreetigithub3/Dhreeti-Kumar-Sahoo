@@ -2,7 +2,7 @@
 
 A responsive React portfolio for Dhreeti Kumar Sahoo, an MCA graduate focused on Java full stack development, Spring Boot APIs, Django applications, databases, authentication, and practical web integrations.
 
-Live portfolio: [dhreetikumarsahoo.onrender.com](https://dhreetikumarsahoo.onrender.com)
+Live portfolio: [Dhreeti-Kumar-Sahoo](https://dhreetigithub3.github.io/Dhreeti-Kumar-Sahoo/)
 
 ## Overview
 
@@ -120,7 +120,7 @@ portfolio/
 - Email: [sahoodhreetikumar@gmail.com](mailto:sahoodhreetikumar@gmail.com)
 - GitHub: [dhreetigithub3](https://github.com/dhreetigithub3)
 - LinkedIn: [dhreeti-kumar-sahoo](http://www.linkedin.com/in/dhreeti-kumar-sahoo)
-- Portfolio: [dhreetikumarsahoo.onrender.com](https://dhreetikumarsahoo.onrender.com)
+- Portfolio: [Dhreeti-Kumar-Sahoo](https://dhreetigithub3.github.io/Dhreeti-Kumar-Sahoo/)
 
 ## License
 
