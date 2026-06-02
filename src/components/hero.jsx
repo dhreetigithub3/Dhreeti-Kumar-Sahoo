@@ -8,6 +8,8 @@ const roleWords = [
   'Python Django Developer'
 ];
 
+const assetUrl = (path) => `${import.meta.env.BASE_URL}${path}`;
+
 function Hero() {
   const [wordIndex, setWordIndex] = useState(0);
   const [currentText, setCurrentText] = useState('');
@@ -100,7 +102,7 @@ function Hero() {
               Get In Touch
             </button>
             <a
-              href="resume.pdf"
+              href={assetUrl('resume.pdf')}
               download="Dhreeti_Kumar_Sahoo_Resume.pdf"
               className="btn btn-secondary btn-icon"
               title="Download Resume"
@@ -114,7 +116,7 @@ function Hero() {
           <div className="hero-img-bg"></div>
           <div className="hero-img-container">
             <img
-              src="/avatar.png"
+              src={assetUrl('avatar.png')}
               alt="Dhreeti K S - Developer Portrait"
               className="hero-img"
               onError={(e) => {
