@@ -70,7 +70,7 @@ function Navbar({ theme, toggleTheme }) {
                         <Code size={22} style={{ color: 'var(--primary)' }} />
                         Dhreeti
                     </span>
-                    <span className="nav-subtitle">Java Full Stack</span>
+                    <span className="nav-subtitle">Full Stack Developer</span>
                 </div>
 
                 <div className="nav-links-container">

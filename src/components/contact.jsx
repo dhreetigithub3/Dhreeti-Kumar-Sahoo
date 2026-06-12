@@ -4,7 +4,7 @@ import { AlertCircle, CheckCircle, Mail, MapPin, Send, Smartphone } from 'lucide
 const EMAIL = 'sahoodhreetikumar@gmail.com';
 const GITHUB_URL = 'https://github.com/dhreetigithub3';
 const LINKEDIN_URL = 'http://www.linkedin.com/in/dhreeti-kumar-sahoo';
-const PORTFOLIO_URL = 'https://dhreetikumarsahoo.onrender.com';
+const PORTFOLIO_URL = 'https://dhreetigithub3.github.io/Dhreeti-Kumar-Sahoo/';
 
 const Github = ({ size = 20, ...props }) => (
     <svg
@@ -214,7 +214,7 @@ function Contact() {
                                     name="message"
                                     value={formData.message}
                                     onChange={handleChange}
-                                    placeholder="Hi Dhreeti, I am a recruiter looking to discuss an entry-level Java developer role..."
+                                    placeholder="Hi Dhreeti, I am a recruiter looking to discuss an entry-level role..."
                                     required
                                 ></textarea>
                             </div>
